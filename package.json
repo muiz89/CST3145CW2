@@ -1,0 +1,16 @@
+{
+    "name": "cst3145-individual-work",
+    "author": "Muiz",
+    "private": true,
+    "scripts": {
+        "start": "nodemon Scripts/backend.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "ejs": "^3.1.6",
+        "express": "^4.17.2",
+        "git": "^0.1.5",
+        "mongodb": "^4.4.0",
+        "nodemon": "^2.0.15"
+    }
+}
